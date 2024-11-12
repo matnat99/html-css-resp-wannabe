@@ -155,6 +155,19 @@ img {
         width: 100%;
     }
 
+    .steps{
+        margin-bottom: 0;
+    }
+
+    .why-us{
+        background-color: #222222;
+        margin-bottom: 0;
+        padding-top: 3rem;
+    }
+
+    .col{
+        margin-bottom: 2.5rem;
+    }
 }
 
 @media screen and (min-width: 769px){
